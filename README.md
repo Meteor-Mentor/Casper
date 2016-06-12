@@ -4,13 +4,13 @@ This theme is based on Ghost' Casper default theme and contains only some slight
 
 ## You want to improve it?
 
-Improving it is pretty simple!
-1. clone ghost https://github.com/TryGhost/Ghost
-2. run 'npm install'
-3. clone the theme inside your theme folder
-4. select 'Casper-Meteoruniversity' as theme
-5. run 'grunt dev'
-6. enjoy developing ;)
+You've luck! Improving it is pretty simple!
+ 1. clone ghost https://github.com/TryGhost/Ghost
+ 2. run 'npm install'
+ 3. clone the theme inside your theme folder
+ 4. select 'Casper-Meteoruniversity' as theme
+ 5. run 'grunt dev'
+ 6. enjoy developing ;)
 
 
 # Casper
