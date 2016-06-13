@@ -8,8 +8,8 @@ You've luck! Improving it is pretty simple!
  1. clone ghost https://github.com/TryGhost/Ghost
  2. run 'npm install'
  3. clone the theme inside your theme folder
- 4. select 'Casper-Meteoruniversity' as theme
- 5. run 'grunt dev'
+ 4. run 'grunt dev'
+ 5. 4. select 'Casper-Meteoruniversity' as theme via backend
  6. enjoy developing ;)
 
 
